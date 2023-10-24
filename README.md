@@ -1,10 +1,7 @@
-### Hello! I'm Drew Turner. I'm currently a student studying at Oregon State University 🏫
-
-
-- 🔭 I’m currently working on finishing my degree in Computer Science.  
+### Hello! I'm Drew Turner. I’m a recent graduate of Oregon State University. Go Beavs!  🏫
   
 
-- 🌱 I’m currently learning Computer Graphics, Game and Sim Programming, as well as Inclusive Design.  
+-  I’m currently working on a project utilizing the Riot Games API to provide data analysis and game results for the popular online game and eSport League of Legends.
   
 
 <br/>  
